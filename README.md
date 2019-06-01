@@ -4,7 +4,7 @@ https://www.youtube.com/results?search_query=bisqwit
 
 ## Getting Started
 
-I know that several TUI exist, like curses, asciimatics, urwid, npyscreen, etc but none seemed to have what I needed so I made my own.
+I wanted to learn powershell and I was fascinated by Bisqwit's autotyper so I created this.
 
 ### Prerequisites
 
