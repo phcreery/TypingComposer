@@ -46,7 +46,7 @@ Example markup:
 3	
 5>	screensize = tui.getsize()
 <	
-4>	r = tui.kbdinput("Prompt",screensize,"small","")
+4>-	r = tui.kbdinput("Prompt",screensize,"small","")
 <	
 6	print(r)
 7
