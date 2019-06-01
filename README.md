@@ -55,7 +55,7 @@ Example markup:
 1 : Order of lines to draw
 > : Continue writing this section
 < : Stop writing this section
-- : Write without autoclose parentheses/brackets/braces. (ex `print(" dont autoclose this single brace { ")`)
+- : Write without autoclose parentheses/brackets/braces. ex. print(" dont autoclose this single brace { ")
 ```
 
 
