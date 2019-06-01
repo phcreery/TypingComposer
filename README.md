@@ -30,7 +30,7 @@ Run Powershell script hoever you perfer. (Rigth Click > Run with Powershell it i
 6. Follow Direcitons and press enter again.
 7. Relax
 
-![](example.gif)
+![](media/example.gif)
 
 ### Usage
 
