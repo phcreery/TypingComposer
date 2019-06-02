@@ -63,6 +63,7 @@ Example markup:
 This is the list of future changes:
 
  - [ ] Intelligent Copy/Paste
+ - [ ] Automated Screen record
 
 
 
