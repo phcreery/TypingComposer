@@ -18,7 +18,7 @@ git clone "https://github.com/phcreery/TypingComposer.git"
 
 ## Running
 
-Run Powershell script hoever you perfer. (Rigth Click > Run with Powershell it is easiest)
+Run Powershell script however you perfer. (Rigth Click > Run with Powershell)
 
 
 1. Copy your code into the same directory and rename it to: input.txt
