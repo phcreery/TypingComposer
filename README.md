@@ -1,6 +1,5 @@
 # TypingComposer
-Powershell Based Programming/Script typing composer inspired by Bisqwit
-https://www.youtube.com/results?search_query=bisqwit
+Powershell Based Programming/Script typing composer inspired by (Bisqwit)[https://www.youtube.com/results?search_query=bisqwit]
 
 ## Getting Started
 
